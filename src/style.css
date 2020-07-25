@@ -1,0 +1,12 @@
+.card {
+  width: 18rem;
+  display: inline-block;
+}
+
+.nav-image{
+  height: 70px;
+}
+
+.btn{
+  margin: 0px;
+}
